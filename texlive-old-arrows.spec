@@ -1,6 +1,6 @@
 Name:		texlive-old-arrows
 Version:	42872
-Release:	1
+Release:	2
 Summary:	Computer Modern old-style arrows with smaller arrowheads
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/old-arrows
