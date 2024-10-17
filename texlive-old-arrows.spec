@@ -3,7 +3,7 @@ Version:	42872
 Release:	2
 Summary:	Computer Modern old-style arrows with smaller arrowheads
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/old-arrows
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/old-arrows
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/old-arrows.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/old-arrows.doc.r%{version}.tar.xz
